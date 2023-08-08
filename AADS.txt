@@ -2,27 +2,14 @@
   "AdsController": {
       
     "AdNetwork"               : "Applovin",
+  
     
-    "AdMob_ID"                : "",
-    "AdMob_Banner"            : "",
-    "AdMob_InterstitialAd"    : "",
-    "AdMob_Native"            : "",
-    "AdMob_RewardAd"          : "",
-    
-"Facebook_Banner"         : "",
-    "Facebook_InterstitialAd" : "",
-    "Facebook_Native"         : "",
-    "Facebook_RewardAd"       : "",
-    
-    "Applovin_Banner"         : "1b0bef25c15a2e01",
-    "Applovin_InterstitialAd" : "332ad3814f4992ab",
-    "Applovin_Native"         : "d7d8e7c4323cb847",
-    "Applovin_RewardAd"       : "c9e12392b8dd81c6",
+    "max_banner"         : "1b0bef25c15a2e01",
+    "inter_max" : "332ad3814f4992ab",
+    "Native_max"         : "d7d8e7c4323cb847",
+    "Reward_max"       : "c9e12392b8dd81c6",
 
-    "Unity_GameID"            : "",
-    "Unity_Banner"            : "",
-    "Unity_InterstitialAd"    : "",
-    "Unity_RewardAd"          : "",
+   
 
     "IronSourceKey"           : ""
 
